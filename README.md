@@ -1,0 +1,1 @@
+# STM32G474RET6-Nucleo
