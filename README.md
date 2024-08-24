@@ -6,3 +6,4 @@
 
 It is a project of blinking the LD2 LED on the Nucleo card at one-second intervals.
 
+[Toggle Led Project](https://github.com/Acharx/STM32G474RET6-Nucleo/tree/main/02%20-%20STM32%20-%20Toggle%20Led)
